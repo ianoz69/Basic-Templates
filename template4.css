@@ -1,0 +1,25 @@
+#t4sidebar {
+	width: 150px;
+	height: 405px;
+	background-color: #66FFCC;
+	margin: 5px;
+	margin-top: 0px;
+	float: left;
+}
+
+#t4header {
+	width: 795px;
+	height: 100px;
+	background-color: #FFFF99;
+	margin: 5px;
+	margin-left: 160px;
+}
+
+#t4main {
+	width: 795px;
+	height: 300px;
+	background-color: #F0F0F0;
+	margin: 5px;
+	margin-left: 160px;
+}
+

@@ -1,0 +1,17 @@
+#t2header {
+	height: 100px;
+	background-color: #FFFF99;
+	margin: 5px;
+}
+
+#t2main {
+	height: 300px;
+	background-color: #F0F0F0;
+	margin: 5px;
+}
+
+#t2footer {
+	height: 100px;
+	background-color: #FFFF99;
+	margin: 5px;
+}

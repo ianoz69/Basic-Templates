@@ -1,0 +1,32 @@
+#t6header {
+	height: 100px;
+	background-color: #FFFF99;
+	margin: 5px;
+}
+
+#t6sidebar1 {
+	width: 150px;
+	height: 300px;
+	background-color: #66FFCC;
+	margin: 5px;
+	margin-top: 0px;
+	float: left;
+}
+
+#t6sidebar2 {
+	width: 150px;
+	height: 300px;
+	background-color: #66FFCC;
+	margin: 5px;
+	margin-top: 0px;
+	float: right;
+}
+
+#t6main {
+	width: 640px;
+	height: 300px;
+	background-color: #F0F0F0;
+	margin: 5px;
+	margin-left: 160px;
+}
+
